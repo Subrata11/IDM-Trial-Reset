@@ -9,4 +9,4 @@ Use IDM forever without cracking
 
 ## License
 
-TheUnilicense.
+Unilicense.
